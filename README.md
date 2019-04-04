@@ -1,2 +1,2 @@
 # Pan-YahyaProgram
-Program
+やひゃがJAVAでゲームを作ろうといったことが始まりです。
