@@ -8,6 +8,7 @@ public class Form1 extends JFrame{
     private JPanel Main;
 
     public Form1() {
+        JFrame frame = new JFrame("ここにタイトル");
         button1.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
